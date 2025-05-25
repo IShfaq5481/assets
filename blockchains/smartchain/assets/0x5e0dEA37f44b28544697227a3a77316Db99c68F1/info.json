@@ -1,1 +1,14 @@
+{
+  "name": "USDTMiningToken",
+  "symbol": "USDT",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5e0dEA37f44b28544697227a3a77316Db99c68F1",
+  "logo": "logo.png",
+  "links": {
+    "website": "https://your-website.com",
+    "twitter": "https://twitter.com/yourproject"
+  }
+}
 
